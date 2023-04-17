@@ -1,6 +1,6 @@
 Retos para mejorar lógica de programación general.
 
-Reto 0 "El Famoso FIZZ BUZZ"
+#Reto 0 "El Famoso FIZZ BUZZ"
 
 /*
  * Escribe un programa que muestre por consola (con un print) los
@@ -11,7 +11,7 @@ Reto 0 "El Famoso FIZZ BUZZ"
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
  
- Reto 1 Fibonacci
+ #Reto 1 Fibonacci
  
  Contexto
 La secuencia de Fibonacci es una sucesión infinita de números naturales, descrita por primera vez por el matemático italiano Fibonacci en el siglo XIII. Esta serie numérica empieza con 0 y 1, siguiendo con la suma de los dos números anteriores hasta el infinito, por ejemplo:
@@ -32,3 +32,7 @@ Si llamo a la función fibonacci(6), deberá retornar:
 1,1,2,3,5,8
 
 Es decir, los primeros 6 números de la secuencia.
+
+#Reto 3 "Viernese 13"
+Realiza una aplicación que muestre los días que serán viernes 13 este año
+ejemplo de output: "Viernes 13 de octubre".
