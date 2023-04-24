@@ -33,12 +33,12 @@ Si llamo a la función fibonacci(6), deberá retornar:
 
 Es decir, los primeros 6 números de la secuencia.
 
-#Reto 3 "Viernese 13"
+#Reto 2 "Viernese 13"
 Realiza una aplicación que muestre los días que serán viernes 13 este año
 ejemplo de output: "Viernes 13 de octubre".
 
 
-#Reto 4 "Bubble Sort"
+#Reto 3 "Bubble Sort"
 La Ordenación de burbuja (Bubble Sort en inglés) es un sencillo algoritmo de ordenamiento. Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado.
  Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios, lo cual significa que la lista está ordenada.
   Este algoritmo obtiene su nombre de la forma con la que suben por la lista los elementos durante los intercambios, como si fueran pequeñas "burbujas".
